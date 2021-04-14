@@ -1,3 +1,9 @@
 # django_rg
-a test project for rango
-First trial!!!
+
+First trial.
+
+
+a test project for rango.
+
+
+I love :coffee: :pizza:, and :dancer:.
